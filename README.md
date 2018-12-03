@@ -5,6 +5,7 @@ Frameworks for a scrolling platformer engine.
 * vector graphics
 * complete asset and sprite pack (vector)
 * 2D physics
+* continuous 2D side-scrolling
 * level-editing system
 * dialogue system
 * player-environment interaction
